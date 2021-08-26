@@ -1,0 +1,20 @@
+.category-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.category-section form {
+  width: 100%;
+}
+
+.category-section .card {
+  border: 0;
+}
+
+.category-section .MuiFormControl-root {
+  width: 100%;
+}
