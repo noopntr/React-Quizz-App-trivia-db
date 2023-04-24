@@ -1,3 +1,2 @@
-### `npm install`
+### `Created Carousel With Only HTML and CSS`
 
-### `npm start `
